@@ -1,0 +1,1175 @@
+{
+    "res": {
+        "lib/css/attachment.css": {
+            "uri": "/static/lib/css/attachment_4432ec9.css",
+            "type": "css"
+        },
+        "lib/css/attachmenticon.css": {
+            "uri": "/static/lib/css/attachmenticon_d8bb772.css",
+            "type": "css"
+        },
+        "lib/css/blue.css": {
+            "uri": "/static/lib/css/blue_f731d06.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap-fileupload.css": {
+            "uri": "/static/lib/css/bootstrap-fileupload_4fa0382.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap-image-gallery.min.css": {
+            "uri": "/static/lib/css/bootstrap-image-gallery.min_f66f5fb.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap-modal.css": {
+            "uri": "/static/lib/css/bootstrap-modal_a4d1836.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap-responsive.min.css": {
+            "uri": "/static/lib/css/bootstrap-responsive.min_12d88b2.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap.min.css": {
+            "uri": "/static/lib/css/bootstrap.min_ab9e104.css",
+            "type": "css"
+        },
+        "lib/css/brown.css": {
+            "uri": "/static/lib/css/brown_caebf81.css",
+            "type": "css"
+        },
+        "lib/css/common.css": {
+            "uri": "/static/lib/css/common_3d0c03f.css",
+            "type": "css"
+        },
+        "lib/css/customize.css": {
+            "uri": "/static/lib/css/customize_850d318.css",
+            "type": "css"
+        },
+        "lib/css/datepicker.css": {
+            "uri": "/static/lib/css/datepicker_d624542.css",
+            "type": "css"
+        },
+        "lib/css/daterangepicker.css": {
+            "uri": "/static/lib/css/daterangepicker_7c84289.css",
+            "type": "css"
+        },
+        "lib/css/default.css": {
+            "uri": "/static/lib/css/default_993e371.css",
+            "type": "css"
+        },
+        "lib/css/easydialog.css": {
+            "uri": "/static/lib/css/easydialog_764a085.css",
+            "type": "css"
+        },
+        "lib/css/font-awesome.min.css": {
+            "uri": "/static/lib/css/font-awesome.min_412e103.css",
+            "type": "css"
+        },
+        "lib/css/fullcalendar.css": {
+            "uri": "/static/lib/css/fullcalendar_e02036c.css",
+            "type": "css"
+        },
+        "lib/css/glyphicons.css": {
+            "uri": "/static/lib/css/glyphicons_5839cb9.css",
+            "type": "css"
+        },
+        "lib/css/grey.css": {
+            "uri": "/static/lib/css/grey_481985a.css",
+            "type": "css"
+        },
+        "lib/css/jquery.dataTables.css": {
+            "uri": "/static/lib/css/jquery.dataTables_05951ed.css",
+            "type": "css"
+        },
+        "lib/css/jquery.easy-pie-chart.css": {
+            "uri": "/static/lib/css/jquery.easy-pie-chart_888ebb8.css",
+            "type": "css"
+        },
+        "lib/css/jquery.gritter.css": {
+            "uri": "/static/lib/css/jquery.gritter_50f9617.css",
+            "type": "css"
+        },
+        "lib/css/jqvmap.css": {
+            "uri": "/static/lib/css/jqvmap_e1c6710.css",
+            "type": "css"
+        },
+        "lib/css/light.css": {
+            "uri": "/static/lib/css/light_bb48f4c.css",
+            "type": "css"
+        },
+        "lib/css/login-soft.css": {
+            "uri": "/static/lib/css/login-soft_98d59bc.css",
+            "type": "css"
+        },
+        "lib/css/login.css": {
+            "uri": "/static/lib/css/login_d2cf008.css",
+            "type": "css"
+        },
+        "lib/css/multi-select-metro.css": {
+            "uri": "/static/lib/css/multi-select-metro_cfae88b.css",
+            "type": "css"
+        },
+        "lib/css/profile.css": {
+            "uri": "/static/lib/css/profile_f4e0444.css",
+            "type": "css"
+        },
+        "lib/css/purple.css": {
+            "uri": "/static/lib/css/purple_7d47921.css",
+            "type": "css"
+        },
+        "lib/css/select2_metro.css": {
+            "uri": "/static/lib/css/select2_metro_4e17e82.css",
+            "type": "css"
+        },
+        "lib/css/skins/cm_blue/style.css": {
+            "uri": "/static/lib/css/skins/cm_blue/style_45dabae.css",
+            "type": "css"
+        },
+        "lib/css/skins/cm_default/style.css": {
+            "uri": "/static/lib/css/skins/cm_default/style_ce809c8.css",
+            "type": "css"
+        },
+        "lib/css/style-metro.css": {
+            "uri": "/static/lib/css/style-metro_70f909f.css",
+            "type": "css"
+        },
+        "lib/css/style-responsive.css": {
+            "uri": "/static/lib/css/style-responsive_81a2aa9.css",
+            "type": "css"
+        },
+        "lib/css/style.css": {
+            "uri": "/static/lib/css/style_3d4ba21.css",
+            "type": "css"
+        },
+        "lib/css/uniform.default.css": {
+            "uri": "/static/lib/css/uniform.default_fd9fe5c.css",
+            "type": "css"
+        },
+        "lib/css/uploadify.css": {
+            "uri": "/static/lib/css/uploadify_5b373d3.css",
+            "type": "css"
+        },
+        "lib/css/yun-static.css": {
+            "uri": "/static/lib/css/yun-static_2e4c1c8.css",
+            "type": "css"
+        },
+        "lib/excanvas.min.js": {
+            "uri": "/static/lib/excanvas.min_ee9e3fe.js",
+            "type": "js"
+        },
+        "lib/html5shiv.min.js": {
+            "uri": "/static/lib/html5shiv.min_bc0679a.js",
+            "type": "js"
+        },
+        "lib/jquery/ajaxfileupload.js": {
+            "uri": "/static/lib/jquery/ajaxfileupload_03ada6b.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap-datepicker.js": {
+            "uri": "/static/lib/jquery/bootstrap-datepicker_7d0ae76.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap-fileupload.js": {
+            "uri": "/static/lib/jquery/bootstrap-fileupload_209a755.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap-modal.js": {
+            "uri": "/static/lib/jquery/bootstrap-modal_1e72a0c.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap-modalmanager.js": {
+            "uri": "/static/lib/jquery/bootstrap-modalmanager_bb46a20.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap.min.js": {
+            "uri": "/static/lib/jquery/bootstrap.min_bf76eda.js",
+            "type": "js"
+        },
+        "lib/jquery/date.js": {
+            "uri": "/static/lib/jquery/date_3394067.js",
+            "type": "js"
+        },
+        "lib/jquery/dateUtil.js": {
+            "uri": "/static/lib/jquery/dateUtil_a45d15a.js",
+            "type": "js"
+        },
+        "lib/jquery/daterangepicker.js": {
+            "uri": "/static/lib/jquery/daterangepicker_9ee19fd.js",
+            "type": "js"
+        },
+        "lib/jquery/easydialog.min.js": {
+            "uri": "/static/lib/jquery/easydialog.min_eed490d.js",
+            "type": "js"
+        },
+        "lib/jquery/fullcalendar.min.js": {
+            "uri": "/static/lib/jquery/fullcalendar.min_2619f82.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery-1.10.1.min.js": {
+            "uri": "/static/lib/jquery/jquery-1.10.1.min_d1c14ce.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery-migrate-1.2.1.min.js": {
+            "uri": "/static/lib/jquery/jquery-migrate-1.2.1.min_512b871.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery-ui-1.10.1.custom.min.js": {
+            "uri": "/static/lib/jquery/jquery-ui-1.10.1.custom.min_5b7207f.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.SuperSlide.2.1.1.js": {
+            "uri": "/static/lib/jquery/jquery.SuperSlide.2.1.1_cd674d9.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.backstretch.min.js": {
+            "uri": "/static/lib/jquery/jquery.backstretch.min_4244b12.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.blockui.min.js": {
+            "uri": "/static/lib/jquery/jquery.blockui.min_1857f57.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.cookie.min.js": {
+            "uri": "/static/lib/jquery/jquery.cookie.min_670c816.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.dataTables.js": {
+            "uri": "/static/lib/jquery/jquery.dataTables_56d75a6.js",
+            "type": "js",
+            "deps": [
+                "jquery"
+            ]
+        },
+        "lib/jquery/jquery.dataTables.min.js": {
+            "uri": "/static/lib/jquery/jquery.dataTables.min_f1e6c13.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.easy-pie-chart.js": {
+            "uri": "/static/lib/jquery/jquery.easy-pie-chart_31d5236.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.flot.js": {
+            "uri": "/static/lib/jquery/jquery.flot_35da51d.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.flot.resize.js": {
+            "uri": "/static/lib/jquery/jquery.flot.resize_db13d00.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.gritter.js": {
+            "uri": "/static/lib/jquery/jquery.gritter_04026d5.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.jeegoocontext-2.0.0.min.js": {
+            "uri": "/static/lib/jquery/jquery.jeegoocontext-2.0.0.min_6f7b25a.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.pulsate.min.js": {
+            "uri": "/static/lib/jquery/jquery.pulsate.min_e9eb142.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.slimscroll.min.js": {
+            "uri": "/static/lib/jquery/jquery.slimscroll.min_3a33c55.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.sparkline.min.js": {
+            "uri": "/static/lib/jquery/jquery.sparkline.min_8c1f8ba.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.uniform.min.js": {
+            "uri": "/static/lib/jquery/jquery.uniform.min_2842654.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.uploadify.js": {
+            "uri": "/static/lib/jquery/jquery.uploadify_7be086d.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.uploadify.min.js": {
+            "uri": "/static/lib/jquery/jquery.uploadify.min_64fe901.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.validate.min.js": {
+            "uri": "/static/lib/jquery/jquery.validate.min_124a941.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.europe.js": {
+            "uri": "/static/lib/jquery/jquery.vmap.europe_35cd682.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.germany.js": {
+            "uri": "/static/lib/jquery/jquery.vmap.germany_90b1835.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.js": {
+            "uri": "/static/lib/jquery/jquery.vmap_9eca122.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.russia.js": {
+            "uri": "/static/lib/jquery/jquery.vmap.russia_866659c.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.sampledata.js": {
+            "uri": "/static/lib/jquery/jquery.vmap.sampledata_b6f14a6.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.usa.js": {
+            "uri": "/static/lib/jquery/jquery.vmap.usa_2984c6e.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.world.js": {
+            "uri": "/static/lib/jquery/jquery.vmap.world_584eac9.js",
+            "type": "js"
+        },
+        "lib/jquery/pace.min.js": {
+            "uri": "/static/lib/jquery/pace.min_24d2d5e.js",
+            "type": "js"
+        },
+        "lib/jquery/select2.min.js": {
+            "uri": "/static/lib/jquery/select2.min_f4b4f7e.js",
+            "type": "js"
+        },
+        "lib/mod.js": {
+            "uri": "/static/lib/mod_50f4487.js",
+            "type": "js"
+        },
+        "lib/page/themes/black/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-barber-shop_7bd09f6.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-big-counter_2ffc910.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-bounce_0e81e01.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-center-atom_e5437f5.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-center-circle_96920b0.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-center-radar_12c190a.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-center-simple_36c1e0d.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-corner-indicator_e2c0320.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-fill-left_04468ef.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-flash_12d827a.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-flat-top_42e7fc0.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-loading-bar_cb27131.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-mac-osx_bc099ac.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/black/pace-theme-minimal_b4742db.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-barber-shop_efad24d.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-big-counter_de5b681.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-bounce_ea0291c.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-center-atom_121719c.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-center-circle_a70351a.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-center-radar_aaa7774.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-center-simple_f4013cb.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-corner-indicator_66b7d07.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-fill-left_071888b.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-flash_28958b9.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-flat-top_815ff0c.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-loading-bar_9cb1d8e.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-mac-osx_9ce4a23.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/blue/pace-theme-minimal_7bba84c.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-barber-shop_b1faccb.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-big-counter_5ac488d.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-bounce_1ff6365.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-center-atom_f9a0d2b.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-center-circle_c8401f8.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-center-radar_2463150.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-center-simple_b788ea3.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-corner-indicator_a765aa7.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-fill-left_33d016a.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-flash_626bad5.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-flat-top_96d01d7.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-loading-bar_28d94d5.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-mac-osx_2c54324.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/green/pace-theme-minimal_d5c0e99.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-barber-shop_1df49d6.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-big-counter_db05cbb.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-bounce_f81173c.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-center-atom_56d0e7b.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-center-circle_3d23843.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-center-radar_ed52b7c.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-center-simple_6ad0414.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-corner-indicator_ffecc42.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-fill-left_4f44647.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-flash_851d4d1.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-flat-top_216fa50.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-loading-bar_7c9ea3a.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-mac-osx_c8c6edf.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/orange/pace-theme-minimal_a71cbb0.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-barber-shop_6433ca3.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-big-counter_e01dba5.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-bounce_aeff1b2.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-center-atom_f5a5896.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-center-circle_dae9b8a.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-center-radar_431c38b.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-center-simple_d84a351.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-corner-indicator_988c938.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-fill-left_2e0de53.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-flash_d9f0ae0.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-flat-top_af2cc43.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-loading-bar_14fdf93.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-mac-osx_984d455.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/pink/pace-theme-minimal_63483a4.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-barber-shop_72f3f06.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-big-counter_433c8f7.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-bounce_81a4650.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-center-atom_bad3a1a.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-center-circle_ed2aaa5.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-center-radar_688e78f.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-center-simple_c7dfcd3.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-corner-indicator_b8b135f.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-fill-left_1af470a.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-flash_729f26d.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-flat-top_c92040d.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-loading-bar_f664ed0.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-mac-osx_bed6069.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/purple/pace-theme-minimal_82a0fd4.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-barber-shop_6d336d7.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-big-counter_15c1417.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-bounce_b0fb217.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-center-atom_67cc1dd.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-center-circle_0cfc2d1.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-center-radar_d722dc3.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-center-simple_42dc43a.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-corner-indicator_ade64e7.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-fill-left_238c1d4.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-flash_fb28a83.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-flat-top_7741127.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-loading-bar_27da69e.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-mac-osx_f017fd7.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/red/pace-theme-minimal_4f9be76.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-barber-shop_a6b562b.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-big-counter_5e6aea8.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-bounce_55a3df8.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-center-atom_e97a2b0.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-center-circle_546cd84.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-center-radar_9b65f0b.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-center-simple_f020fd9.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-corner-indicator_1c5e4d0.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-fill-left_74ecac4.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-flash_27ea737.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-flat-top_b31c2b6.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-loading-bar_bee30f5.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-mac-osx_141d49a.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/silver/pace-theme-minimal_7f1d4b0.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-barber-shop_1ef670d.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-big-counter_5d20672.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-bounce_893ec6b.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-center-atom_fb1e710.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-center-circle_e4fbbc2.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-center-radar_a6d1408.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-center-simple_dc5b93f.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-corner-indicator_94a2047.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-fill-left_9316c47.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-flash_852fd8d.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-flat-top_241d688.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-loading-bar_8012cdc.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-mac-osx_b2cfcd5.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/white/pace-theme-minimal_1f4d897.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-barber-shop.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-barber-shop_0cdbf72.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-big-counter.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-big-counter_faeadfb.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-bounce.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-bounce_3ba40c6.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-center-atom.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-center-atom_866cac2.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-center-circle.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-center-circle_734e668.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-center-radar.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-center-radar_643539c.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-center-simple.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-center-simple_507f5e1.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-corner-indicator.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-corner-indicator_867b9c1.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-fill-left.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-fill-left_6bd4c8a.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-flash.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-flash_1658f15.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-flat-top.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-flat-top_4297a1a.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-loading-bar.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-loading-bar_14ff604.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-mac-osx.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-mac-osx_fbd2585.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-minimal.css": {
+            "uri": "/static/lib/page/themes/yellow/pace-theme-minimal_5d58f58.css",
+            "type": "css"
+        },
+        "lib/respond.min.js": {
+            "uri": "/static/lib/respond.min_cf5c9b7.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.css": {
+            "uri": "/static/lib/webuploader/webuploader_ca70e29.css",
+            "type": "css"
+        },
+        "lib/webuploader/webuploader.custom.js": {
+            "uri": "/static/lib/webuploader/webuploader.custom_ea16179.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.custom.min.js": {
+            "uri": "/static/lib/webuploader/webuploader.custom.min_8f078b2.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.fis.js": {
+            "uri": "/static/lib/webuploader/webuploader.fis_5437f65.js",
+            "type": "js",
+            "deps": [
+                "example:widget/ui/jquery/jquery.js"
+            ]
+        },
+        "lib/webuploader/webuploader.flashonly.js": {
+            "uri": "/static/lib/webuploader/webuploader.flashonly_f0f489c.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.flashonly.min.js": {
+            "uri": "/static/lib/webuploader/webuploader.flashonly.min_df04d0b.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.html5only.js": {
+            "uri": "/static/lib/webuploader/webuploader.html5only_508b211.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.html5only.min.js": {
+            "uri": "/static/lib/webuploader/webuploader.html5only.min_6651f6b.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.js": {
+            "uri": "/static/lib/webuploader/webuploader_2107ce9.js",
+            "type": "js",
+            "deps": [
+                "webuploader",
+                "lib/webuploader/webuploader.css"
+            ]
+        },
+        "lib/webuploader/webuploader.min.js": {
+            "uri": "/static/lib/webuploader/webuploader.min_5f84bea.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.noimage.js": {
+            "uri": "/static/lib/webuploader/webuploader.noimage_c0cba15.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.noimage.min.js": {
+            "uri": "/static/lib/webuploader/webuploader.noimage.min_d8d21c3.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.nolog.js": {
+            "uri": "/static/lib/webuploader/webuploader.nolog_3c1fbff.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.nolog.min.js": {
+            "uri": "/static/lib/webuploader/webuploader.nolog.min_622c2c1.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.withoutimage.js": {
+            "uri": "/static/lib/webuploader/webuploader.withoutimage_411b82f.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.withoutimage.min.js": {
+            "uri": "/static/lib/webuploader/webuploader.withoutimage.min_a11920e.js",
+            "type": "js"
+        },
+        "app/index": {
+            "uri": "/static/modules/app/index_f6833e6.js",
+            "type": "js",
+            "deps": [
+                "app/layout"
+            ]
+        },
+        "app/layout": {
+            "uri": "/static/modules/app/layout_47e7913.js",
+            "type": "js",
+            "id": "app/layout"
+        },
+        "app/login": {
+            "uri": "/static/modules/app/login_0eaf000.js",
+            "type": "js",
+            "deps": [
+                "app/layout"
+            ],
+            "id": "app/login"
+        },
+        "app/main": {
+            "uri": "/static/modules/app/main_1b58bc0.js",
+            "type": "js",
+            "extras": {
+                "async": [
+                    "app/views/header/header",
+                    "app/views/sidebar/sidebar",
+                    "app/views/page/page"
+                ]
+            },
+            "deps": [
+                "app/layout",
+                "vendor/avalon/avalon",
+                "app/services/filterService",
+                "app/services/routeService"
+            ],
+            "id": "app/main"
+        },
+        "app/services/ajaxService": {
+            "uri": "/static/modules/app/services/ajaxService_4a4b887.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ]
+        },
+        "app/services/canvasService": {
+            "uri": "/static/modules/app/services/canvasService_8ed73dd.js",
+            "type": "js"
+        },
+        "app/services/filterService": {
+            "uri": "/static/modules/app/services/filterService_39d53bc.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ],
+            "id": "app/services/filterService"
+        },
+        "app/services/routeService": {
+            "uri": "/static/modules/app/services/routeService_55edf09.js",
+            "type": "js",
+            "extras": {
+                "async": [
+                    "app/views/home/home",
+                    "app/views/userCenter/userCenter",
+                    "app/views/manager/manager",
+                    "app/views/wxuser/wxuser"
+                ]
+            },
+            "deps": [
+                "vendor/avalon/mmRouter"
+            ],
+            "id": "app/services/routeService"
+        },
+        "app/services/tmplService": {
+            "uri": "/static/modules/app/services/tmplService_5a78207.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ]
+        },
+        "app/views/header/header": {
+            "uri": "/static/modules/app/views/header/header_bfbb995.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/home/home": {
+            "uri": "/static/modules/app/views/home/home_81052c8.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/manager/manager": {
+            "uri": "/static/modules/app/views/manager/manager_854ad57.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/page/page": {
+            "uri": "/static/modules/app/views/page/page_0766ad5.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ]
+        },
+        "app/views/sidebar/sidebar": {
+            "uri": "/static/modules/app/views/sidebar/sidebar_d485466.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/tmplService"
+            ]
+        },
+        "app/views/userCenter/userCenter": {
+            "uri": "/static/modules/app/views/userCenter/userCenter_8e58ae6.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/wxuser/wxuser": {
+            "uri": "/static/modules/app/views/wxuser/wxuser_a4855f5.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "vendor/avalon/avalon": {
+            "uri": "/static/modules/vendor/avalon/avalon_bae3c8f.js",
+            "type": "js",
+            "id": "vendor/avalon/avalon"
+        },
+        "vendor/avalon/avalon.validation": {
+            "uri": "/static/modules/vendor/avalon/avalon.validation_778377f.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "vendor/avalon/mmPromise"
+            ]
+        },
+        "vendor/avalon/mmHistory": {
+            "uri": "/static/modules/vendor/avalon/mmHistory_cf2b7da.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ],
+            "id": "vendor/avalon/mmHistory"
+        },
+        "vendor/avalon/mmPromise": {
+            "uri": "/static/modules/vendor/avalon/mmPromise_2bf90ff.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ]
+        },
+        "vendor/avalon/mmRouter": {
+            "uri": "/static/modules/vendor/avalon/mmRouter_91068bc.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/mmHistory"
+            ],
+            "id": "vendor/avalon/mmRouter"
+        },
+        "modules/vendor/bootstrap/bootstrap-responsive.min.css": {
+            "uri": "/static/modules/vendor/bootstrap/bootstrap-responsive.min_12d88b2.css",
+            "type": "css"
+        },
+        "vendor/bootstrap/bootstrap.min": {
+            "uri": "/static/modules/vendor/bootstrap/bootstrap.min_17be7f2.js",
+            "type": "js",
+            "deps": [
+                "vendor/jquery/jquery-1.10.1.min"
+            ]
+        },
+        "pkg/map_ae01a6d.js": {
+            "uri": "/static/pkg/map_ae01a6d_8a46a6e.js",
+            "type": "js"
+        }
+    },
+    "pkg": {}
+}

@@ -1,0 +1,36 @@
+{
+     "button":[
+     {	
+      
+			"type":"view",
+            "name":"早起打卡",
+            "url":"http://anyueren.youarebug.com/GetUpSignIn/Index"
+      },{	
+      
+			"name":"微拼车",
+           "sub_button":[
+           {	
+               "type":"view",
+               "name":"找车&找人",
+               "url":"http://anyueren.youarebug.com/CarPooling/AddPage"
+            },
+            {
+               "type":"view",
+               "name":"拼车大厅",
+               "url":"http://anyueren.youarebug.com/CarPooling/Index"
+            },
+            {
+               "type":"view",
+               "name":"意见和问题",
+               "url":"http://wpa.qq.com/msgrd?v=3&uin=591374257&site=qq&menu=yes"
+            }]
+      }
+	  ,{	
+      
+			"type":"view",
+            "name":"微官网",
+            "url":"http://anyueren.youarebug.com/Home/Main"
+      }]
+ }
+
+

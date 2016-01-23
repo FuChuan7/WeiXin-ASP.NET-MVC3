@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration  xmlns="urn:nhibernate-configuration-2.2" >
+  <session-factory>
+    <property name="connection.driver_class">NHibernate.Driver.SqlClientDriver</property>
+    <property name="connection.connection_string">Server=(local);initial catalog=WxMVC;Integrated Security=false;uid=sa;pwd=123456</property>
+    <property name="show_sql">false</property>
+    <property name="dialect">NHibernate.Dialect.MsSql2008Dialect</property>
+    <mapping resource="WxMVC.DAL.DataAccess.Mappings.SystemLog.hbm.xml" assembly="WxMVC.DAL" />
+    <mapping resource="WxMVC.DAL.DataAccess.Mappings.WXUser.hbm.xml" assembly="WxMVC.DAL" />
+    <mapping resource="WxMVC.DAL.DataAccess.Mappings.Manager.hbm.xml" assembly="WxMVC.DAL" />
+    <mapping resource="WxMVC.DAL.DataAccess.Mappings.Role.hbm.xml" assembly="WxMVC.DAL" />
+  </session-factory>
+</hibernate-configuration>

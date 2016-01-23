@@ -1,0 +1,133 @@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="zh"> <!--<![endif]-->
+<!-- BEGIN HEAD -->
+<head>
+	<meta charset="gbk">
+	<title>@ViewBag.Title</title>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+	<meta content="" name="description" />
+	<meta content="" name="author" />
+	<!-- BEGIN GLOBAL MANDATORY STYLES -->
+	<link href="/static/lib/css/bootstrap.min_ab9e104.css" rel="stylesheet" type="text/css"/>
+	<link href="/static/lib/css/bootstrap-responsive.min_12d88b2.css" rel="stylesheet" type="text/css"/>
+	<link href="/static/lib/css/font-awesome.min_412e103.css" rel="stylesheet" type="text/css"/>
+	<link href="/static/lib/css/style-metro_70f909f.css" rel="stylesheet" type="text/css"/>
+	<link href="/static/lib/css/style_3d4ba21.css" rel="stylesheet" type="text/css"/>
+	<link href="/static/lib/css/style-responsive_81a2aa9.css" rel="stylesheet" type="text/css"/>
+	<link href="/static/lib/css/default_993e371.css" rel="stylesheet" type="text/css" id="style_color"/>
+	<link href="/static/lib/css/uniform.default_fd9fe5c.css" rel="stylesheet" type="text/css"/>
+    <link href="/static/lib/page/themes/blue/pace-theme-loading-bar_9cb1d8e.css" rel="stylesheet" type="text/css"/>
+	<!-- END GLOBAL MANDATORY STYLES -->
+	<!-- BEGIN PAGE LEVEL STYLES -->
+	<link href="/static/lib/css/login-soft_98d59bc.css" rel="stylesheet" type="text/css"/>
+	<!-- END PAGE LEVEL STYLES -->
+	<link rel="shortcut icon" href="/static/lib/image/favicon_a108aaa.png" />
+    <!--覆盖字体-->
+    <link href="/static/lib/css/customize_850d318.css" rel="stylesheet" type="text/css" />
+    <script src="/static/lib/mod_50f4487.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/static/modules/app/layout_47e7913.js"></script>
+<script type="text/javascript" src="/static/modules/app/login_0eaf000.js"></script>
+
+</head>
+<!-- END HEAD -->
+<!-- BEGIN BODY -->
+<body class="login">
+	<!-- BEGIN LOGO -->
+	<div class="logo" style="margin-top:40px;">
+		<img src="/static/lib/image/logo-index_4086aef.png" alt="" />
+	</div>
+	<!-- END LOGO -->
+    <div class="container-fluid" style="margin-top:30px;">
+    <div class=" row-fluid" >
+    <div class="span12">
+        <div class="span12">
+        	<div class="content">
+		<!-- BEGIN LOGIN FORM -->
+		<form class="form-vertical login-form" method="post" action="/User/Login" onsubmit="return false;">
+			<h3 class="form-title">@ViewBag.LoginTitle</h3>
+			<div class="alert alert-error hide">
+				<button class="close" data-dismiss="alert"></button>
+				<span>Enter any username and password.</span>
+			</div>
+			<div class="control-group">
+				<!--ie8, ie9 does not support html5 placeholder, so we just show field title for that-->
+				<label class="control-label visible-ie8 visible-ie9">Username</label>
+				<div class="controls">
+					<div class="input-icon left">
+						<i class="icon-user"></i>
+						<input class="m-wrap placeholder-no-fix" type="text" placeholder="Username" name="username"/>
+					</div>
+				</div>
+			</div>
+			<div class="control-group">
+				<label class="control-label visible-ie8 visible-ie9">Password</label>
+				<div class="controls">
+					<div class="input-icon left">
+						<i class="icon-lock"></i>
+						<input class="m-wrap placeholder-no-fix" type="password"  placeholder="Password" name="password"/>
+					</div>
+				</div>
+			</div>
+			<div class="form-actions">
+				<label class="checkbox">
+				<input type="checkbox" name="remember" value="1"/> @ViewBag.Remember 
+				</label>
+				<button type="submit" class="btn green pull-right">
+				@ViewBag.LoginBtnText <i class="m-icon-swapright m-icon-white"></i>
+				</button>            
+			</div>
+		</form>
+		<!-- END LOGIN FORM -->        
+	</div>
+        </div>
+    </div>
+	</div>
+    </div>
+    <!-- BEGIN LOGIN -->
+
+	<!-- END LOGIN -->
+    <!-- BEGIN INFO -->
+    <div class="alert alert-block vanke-alert span3" ms-class="alert-info">
+        <h4 class="alert-heading">{{infoBox.title}}</h4>
+        <p>{{infoBox.content}}</p>
+    </div>
+    <!-- END INFO -->
+	<!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
+	<!-- BEGIN CORE PLUGINS -->
+	<script src="/static/lib/jquery/jquery-1.10.1.min_d1c14ce.js" type="text/javascript"></script>
+	<script src="/static/lib/jquery/jquery-migrate-1.2.1.min_512b871.js" type="text/javascript"></script>
+    <script src="/static/lib/jquery/jquery.backstretch.min_4244b12.js" type="text/javascript"></script>
+    <script src="/static/lib/jquery/jquery.SuperSlide.2.1.1_cd674d9.js" type="text/javascript"></script>
+	<!-- IMPORTANT! Load jquery-ui-1.10.1.custom.min.js before bootstrap.min.js to fix bootstrap tooltip conflict with jquery ui tooltip -->
+	<script src="/static/lib/jquery/jquery-ui-1.10.1.custom.min_5b7207f.js" type="text/javascript"></script>      
+	<script src="/static/lib/jquery/bootstrap.min_bf76eda.js" type="text/javascript"></script>
+	<!--[if lt IE 9]>
+	<script src="../../lib/jquery/excanvas.min.js"></script>
+	<script src="../../lib/jquery/respond.min.js"></script>  
+	<![endif]-->   
+	<script src="/static/lib/jquery/jquery.slimscroll.min_3a33c55.js" type="text/javascript"></script>
+	<script src="/static/lib/jquery/jquery.blockui.min_1857f57.js" type="text/javascript"></script>  
+	<script src="/static/lib/jquery/jquery.cookie.min_670c816.js" type="text/javascript"></script>
+	<script src="/static/lib/jquery/jquery.uniform.min_2842654.js" type="text/javascript" ></script>
+	<!-- END CORE PLUGINS -->
+	<!-- BEGIN PAGE LEVEL PLUGINS -->
+	<script src="/static/lib/jquery/jquery.validate.min_124a941.js" type="text/javascript"></script>
+    @*<script src="/static/lib/jquery/pace.min_24d2d5e.js" type="text/javascript"></script>*@
+    
+	<!-- END PAGE LEVEL PLUGINS -->
+	<!-- BEGIN PAGE LEVEL SCRIPTS -->     
+	<!-- END PAGE LEVEL SCRIPTS --> 
+    <script type="text/javascript">
+        require('app/login');
+    </script>
+	<!-- END JAVASCRIPTS -->
+</body>
+<!-- END BODY -->
+</html>

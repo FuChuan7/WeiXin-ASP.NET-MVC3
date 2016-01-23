@@ -1,0 +1,14 @@
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\obj\x86\Debug\Tencent.MenuTools.csprojResolveAssemblyReference.cache
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\Tencent.MenuTools.exe.config
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\Tencent.MenuTools.exe
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\Tencent.MenuTools.pdb
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\Tencent.Model.dll
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\Tencent.Util.dll
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\Tencent.Weixin.dll
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\WxMVC.Util.dll
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\Tencent.Model.pdb
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\Tencent.Util.pdb
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\Tencent.Weixin.pdb
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\bin\Debug\WxMVC.Util.pdb
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\obj\x86\Debug\Tencent.MenuTools.exe
+D:\项目\微信开发框架\Source\WxMVC\Tencent.MenuTools\obj\x86\Debug\Tencent.MenuTools.pdb
